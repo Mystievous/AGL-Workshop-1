@@ -16,7 +16,5 @@ public class CubeThing : MonoBehaviour
     {
         
         counter += Time.deltaTime;
-        
-        Debug.Log((int) counter);
     }
 }
